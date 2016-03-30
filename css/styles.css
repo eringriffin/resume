@@ -1,0 +1,26 @@
+.intro {
+  text-align: center;
+  font-weight: bold;
+  line-height: 90%;
+}
+
+.address {
+  text-align: left;
+  width: 25%;
+  line-height: 80%;
+}
+
+.objective {
+  text-align: center;
+  font-size: 18px;
+}
+
+.company {
+  float: left;
+  font-weight: bold;
+}
+
+.date {
+  float: right;
+  width: 25%;
+}
